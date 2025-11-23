@@ -1,3 +1,3 @@
-Pokebot 
-
-Sebuah bot discord yang memungkinkan kamu untuk mendapatkan dan merawat pokemonmu sendriri!@
+                                          POKEBOT 
+____________________________________________________________________________________________
+Sebuah bot discord yang memungkinkan kamu untuk mendapatkan dan merawat pokemonmu sendriri!
